@@ -1,0 +1,11 @@
+var btn1 = document.getElementById('btn1');
+btn1.style.backgroundColor = "#E20A4D";
+btn1.style.border = "none";
+btn1.style.borderRadius = "20px";
+btn1.style.width = "89px";
+btn1.style.height = "5%";
+btn1.style.position = "absolute";
+btn1.style.top = "27vh";
+btn1.style.left = "50%";
+btn1.style.transform = "translate(-50%,-50%)";
+btn1.style.fontSize = "11px";
